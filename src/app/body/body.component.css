@@ -1,0 +1,22 @@
+button{
+    color:black;
+    background-color:aqua;
+    cursor: pointer;
+}
+.check{
+    
+    cursor: pointer;
+}
+.image{
+    font-family: monospace;
+    height: 350px;
+    padding: 10px;
+
+    
+}
+
+.table{
+    margin-left: 10x;
+    border: transparent;
+}
+

@@ -1,0 +1,20 @@
+h5{
+    background-color:peachpuff;
+    text-align-last: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.image{
+    width: 150px;
+    height: 150px;
+}
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+}
+.navbar-brand{
+    font-size: xx-large;
+    
+}
